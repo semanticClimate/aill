@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+recursive-include aill *.py
+recursive-include aill *.md
+recursive-include docs *
+recursive-include test/resources *
